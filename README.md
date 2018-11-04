@@ -142,4 +142,4 @@ _sbt-revolver_ project under the project’s open source license.
   [spray-can]: https://github.com/spray/spray-can
   [shutdown hooks]: http://docs.oracle.com/javase/6/docs/api/java/lang/Runtime.html#addShutdownHook(java.lang.Thread)
   [JRebel FAQ]: http://zeroturnaround.com/software/jrebel/learn/faq/
-  [APL 2.0]: http://www.apache.org/licenses/LICENSE-2.0
+  [APL 2.0]: http://www.apache.org/licenses/LICENSE-2.0 
